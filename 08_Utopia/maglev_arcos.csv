@@ -1,0 +1,121 @@
+origen,destino,lon_origen,lat_origen,lon_destino,lat_destino,km,continente_origen
+Madrid,Londres,-3.7,40.42,-0.13,51.51,1397,Europa
+Madrid,Moscú,-3.7,40.42,37.62,55.75,3547,Europa
+Madrid,El Cairo,-3.7,40.42,31.24,30.04,4067,Europa
+Madrid,Lagos,-3.7,40.42,3.38,6.52,4700,Europa
+Madrid,Johannesburgo,-3.7,40.42,28.05,-26.2,9260,Europa
+Madrid,Dubái,-3.7,40.42,55.27,25.2,6799,Europa
+Madrid,Delhi,-3.7,40.42,77.21,28.61,8128,Europa
+Madrid,Singapur,-3.7,40.42,103.82,1.35,12508,Europa
+Madrid,Pekín,-3.7,40.42,116.41,39.9,9371,Europa
+Madrid,Tokio,-3.7,40.42,139.65,35.68,11476,Europa
+Madrid,Sídney,-3.7,40.42,151.21,-33.87,19709,Europa
+Madrid,Vancouver,-3.7,40.42,-123.12,49.28,9947,Europa
+Madrid,Nueva York,-3.7,40.42,-74.01,40.71,5940,Europa
+Madrid,Ciudad de México,-3.7,40.42,-99.13,19.43,9803,Europa
+Madrid,São Paulo,-3.7,40.42,-46.63,-23.55,17295,Europa
+Londres,Moscú,-0.13,51.51,37.62,55.75,2838,Europa
+Londres,El Cairo,-0.13,51.51,31.24,30.04,4064,Europa
+Londres,Lagos,-0.13,51.51,3.38,6.52,6097,Europa
+Londres,Johannesburgo,-0.13,51.51,28.05,-26.2,10493,Europa
+Londres,Dubái,-0.13,51.51,55.27,25.2,6090,Europa
+Londres,Delhi,-0.13,51.51,77.21,28.61,7419,Europa
+Londres,Singapur,-0.13,51.51,103.82,1.35,11799,Europa
+Londres,Pekín,-0.13,51.51,116.41,39.9,8662,Europa
+Londres,Tokio,-0.13,51.51,139.65,35.68,10767,Europa
+Londres,Sídney,-0.13,51.51,151.21,-33.87,19000,Europa
+Londres,Vancouver,-0.13,51.51,-123.12,49.28,11343,Europa
+Londres,Nueva York,-0.13,51.51,-74.01,40.71,7337,Europa
+Londres,Ciudad de México,-0.13,51.51,-99.13,19.43,11200,Europa
+Londres,São Paulo,-0.13,51.51,-46.63,-23.55,18692,Europa
+Moscú,El Cairo,37.62,55.75,31.24,30.04,2990,Europa
+Moscú,Lagos,37.62,55.75,3.38,6.52,6899,Europa
+Moscú,Johannesburgo,37.62,55.75,28.05,-26.2,9420,Europa
+Moscú,Dubái,37.62,55.75,55.27,25.2,5017,Europa
+Moscú,Delhi,37.62,55.75,77.21,28.61,5791,Europa
+Moscú,Singapur,37.62,55.75,103.82,1.35,10170,Europa
+Moscú,Pekín,37.62,55.75,116.41,39.9,5824,Europa
+Moscú,Tokio,37.62,55.75,139.65,35.68,7930,Europa
+Moscú,Sídney,37.62,55.75,151.21,-33.87,17372,Europa
+Moscú,Vancouver,37.62,55.75,-123.12,49.28,11763,Europa
+Moscú,Nueva York,37.62,55.75,-74.01,40.71,9486,Europa
+Moscú,Ciudad de México,37.62,55.75,-99.13,19.43,13349,Europa
+Moscú,São Paulo,37.62,55.75,-46.63,-23.55,20842,Europa
+El Cairo,Lagos,31.24,30.04,3.38,6.52,3908,África
+El Cairo,Johannesburgo,31.24,30.04,28.05,-26.2,6430,África
+El Cairo,Dubái,31.24,30.04,55.27,25.2,4494,África
+El Cairo,Delhi,31.24,30.04,77.21,28.61,5824,África
+El Cairo,Singapur,31.24,30.04,103.82,1.35,10203,África
+El Cairo,Pekín,31.24,30.04,116.41,39.9,8814,África
+El Cairo,Tokio,31.24,30.04,139.65,35.68,10920,África
+El Cairo,Sídney,31.24,30.04,151.21,-33.87,17405,África
+El Cairo,Vancouver,31.24,30.04,-123.12,49.28,14013,África
+El Cairo,Nueva York,31.24,30.04,-74.01,40.71,10007,África
+El Cairo,Ciudad de México,31.24,30.04,-99.13,19.43,13870,África
+El Cairo,São Paulo,31.24,30.04,-46.63,-23.55,21362,África
+Lagos,Johannesburgo,3.38,6.52,28.05,-26.2,4560,África
+Lagos,Dubái,3.38,6.52,55.27,25.2,8169,África
+Lagos,Delhi,3.38,6.52,77.21,28.61,9732,África
+Lagos,Singapur,3.38,6.52,103.82,1.35,14112,África
+Lagos,Pekín,3.38,6.52,116.41,39.9,12723,África
+Lagos,Tokio,3.38,6.52,139.65,35.68,14829,África
+Lagos,Sídney,3.38,6.52,151.21,-33.87,21313,África
+Lagos,Vancouver,3.38,6.52,-123.12,49.28,14647,África
+Lagos,Nueva York,3.38,6.52,-74.01,40.71,10640,África
+Lagos,Ciudad de México,3.38,6.52,-99.13,19.43,14503,África
+Lagos,São Paulo,3.38,6.52,-46.63,-23.55,21996,África
+Johannesburgo,Dubái,28.05,-26.2,55.27,25.2,6868,África
+Johannesburgo,Delhi,28.05,-26.2,77.21,28.61,9847,África
+Johannesburgo,Singapur,28.05,-26.2,103.82,1.35,14227,África
+Johannesburgo,Pekín,28.05,-26.2,116.41,39.9,15244,África
+Johannesburgo,Tokio,28.05,-26.2,139.65,35.68,17350,África
+Johannesburgo,Sídney,28.05,-26.2,151.21,-33.87,21428,África
+Johannesburgo,Vancouver,28.05,-26.2,-123.12,49.28,19207,África
+Johannesburgo,Nueva York,28.05,-26.2,-74.01,40.71,15200,África
+Johannesburgo,Ciudad de México,28.05,-26.2,-99.13,19.43,19063,África
+Johannesburgo,São Paulo,28.05,-26.2,-46.63,-23.55,26555,África
+Dubái,Delhi,55.27,25.2,77.21,28.61,3080,Asia
+Dubái,Singapur,55.27,25.2,103.82,1.35,7460,Asia
+Dubái,Pekín,55.27,25.2,116.41,39.9,9054,Asia
+Dubái,Tokio,55.27,25.2,139.65,35.68,11160,Asia
+Dubái,Sídney,55.27,25.2,151.21,-33.87,14661,Asia
+Dubái,Vancouver,55.27,25.2,-123.12,49.28,14993,Asia
+Dubái,Nueva York,55.27,25.2,-74.01,40.71,12739,Asia
+Dubái,Ciudad de México,55.27,25.2,-99.13,19.43,16602,Asia
+Dubái,São Paulo,55.27,25.2,-46.63,-23.55,24094,Asia
+Delhi,Singapur,77.21,28.61,103.82,1.35,4379,Asia
+Delhi,Pekín,77.21,28.61,116.41,39.9,5974,Asia
+Delhi,Tokio,77.21,28.61,139.65,35.68,8080,Asia
+Delhi,Sídney,77.21,28.61,151.21,-33.87,11581,Asia
+Delhi,Vancouver,77.21,28.61,-123.12,49.28,11913,Asia
+Delhi,Nueva York,77.21,28.61,-74.01,40.71,14068,Asia
+Delhi,Ciudad de México,77.21,28.61,-99.13,19.43,16141,Asia
+Delhi,São Paulo,77.21,28.61,-46.63,-23.55,23633,Asia
+Singapur,Pekín,103.82,1.35,116.41,39.9,5373,Asia
+Singapur,Tokio,103.82,1.35,139.65,35.68,7479,Asia
+Singapur,Sídney,103.82,1.35,151.21,-33.87,7201,Asia
+Singapur,Vancouver,103.82,1.35,-123.12,49.28,16292,Asia
+Singapur,Nueva York,103.82,1.35,-74.01,40.71,18448,Asia
+Singapur,Ciudad de México,103.82,1.35,-99.13,19.43,20520,Asia
+Singapur,São Paulo,103.82,1.35,-46.63,-23.55,28012,Asia
+Pekín,Tokio,116.41,39.9,139.65,35.68,2106,Asia
+Pekín,Sídney,116.41,39.9,151.21,-33.87,12574,Asia
+Pekín,Vancouver,116.41,39.9,-123.12,49.28,11946,Asia
+Pekín,Nueva York,116.41,39.9,-74.01,40.71,15310,Asia
+Pekín,Ciudad de México,116.41,39.9,-99.13,19.43,16174,Asia
+Pekín,São Paulo,116.41,39.9,-46.63,-23.55,23666,Asia
+Tokio,Sídney,139.65,35.68,151.21,-33.87,14680,Asia
+Tokio,Vancouver,139.65,35.68,-123.12,49.28,14052,Asia
+Tokio,Nueva York,139.65,35.68,-74.01,40.71,17416,Asia
+Tokio,Ciudad de México,139.65,35.68,-99.13,19.43,18280,Asia
+Tokio,São Paulo,139.65,35.68,-46.63,-23.55,25772,Asia
+Sídney,Vancouver,151.21,-33.87,-123.12,49.28,23494,Oceanía
+Sídney,Nueva York,151.21,-33.87,-74.01,40.71,25649,Oceanía
+Sídney,Ciudad de México,151.21,-33.87,-99.13,19.43,27722,Oceanía
+Sídney,São Paulo,151.21,-33.87,-46.63,-23.55,35214,Oceanía
+Vancouver,Nueva York,-123.12,49.28,-74.01,40.71,4007,América
+Vancouver,Ciudad de México,-123.12,49.28,-99.13,19.43,4228,América
+Vancouver,São Paulo,-123.12,49.28,-46.63,-23.55,11720,América
+Nueva York,Ciudad de México,-74.01,40.71,-99.13,19.43,3863,América
+Nueva York,São Paulo,-74.01,40.71,-46.63,-23.55,11355,América
+Ciudad de México,São Paulo,-99.13,19.43,-46.63,-23.55,7492,América
